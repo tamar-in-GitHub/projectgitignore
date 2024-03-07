@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Some.exe.pub
 temp.bmp
 *.txt
 temp/
+=======
+.env
+temp/
+*.txt
+>>>>>>> eb6f0acd8c27aa86a1b834f69645dfce8b7e6060
