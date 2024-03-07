@@ -1,3 +1,16 @@
+<<<<<<< HEAD
 temp/
 *.txt
 temp.txt
+=======
+<<<<<<< HEAD
+Some.exe.pub
+temp.bmp
+*.txt
+temp/
+=======
+.env
+temp/
+*.txt
+>>>>>>> eb6f0acd8c27aa86a1b834f69645dfce8b7e6060
+>>>>>>> 2b375a1265c36eab33f73199295a3f1c12313e3a
